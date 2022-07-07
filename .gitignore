@@ -2,3 +2,7 @@
 
 # misc
 .DS_Store
+
+# Exclude any PSD/AI source
+*.psd
+*.ai
